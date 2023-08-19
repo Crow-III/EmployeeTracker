@@ -1,3 +1,29 @@
+#EmployeeTracker 
+
+It was designed to help you create a database for your employees.
+
+
+
+
+
+https://github.com/Crow-III/EmployeeTracker/assets/125842534/a8b62a00-24fc-4638-b447-b6e32600eb8d
+
+*Resources
+Chatgpt 
+Google
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 12 SQL: Employee Tracker
 
 ## Your Task
